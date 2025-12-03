@@ -1,0 +1,6 @@
+chest_xray/
+*.zip
+*.jpg
+*.jpeg
+*.png
+.venv
