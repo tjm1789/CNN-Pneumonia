@@ -4,3 +4,4 @@ chest_xray/
 *.jpeg
 *.png
 .venv
+.keras
