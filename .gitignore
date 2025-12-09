@@ -5,3 +5,4 @@ chest_xray/
 *.png
 .venv
 *.keras
+*.docx*
