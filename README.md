@@ -71,13 +71,3 @@ model.save("best_pneumonia_cnn.keras")
 model = keras.models.load_model("best_pneumonia_cnn.keras")
 ```
 
-## Notes
-
-- CPU training takes ~12 min per epoch; GPU training is significantly faster.
-- Dataset and model files are intentionally excluded from git.
-
-## Future Work
-
-- Try transfer learning (e.g., MobileNetV2, EfficientNet).
-- Add early stopping, checkpoints, augmentation.
-- Add evaluation metrics and confusion matrix.
